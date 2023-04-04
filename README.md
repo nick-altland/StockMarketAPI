@@ -4,8 +4,6 @@ Prompt the user for both a stock and a bond, then perform calculations on each.
 
 ---
 
-### Include a summary of your program, including a list of Module 2 concepts used:
-
 DISCLAIMER: THIS PROGRAM IS IN NO WAY FINANCIAL ADVICE, AND IS FOR EDUCATIONAL AND THEORETICAL PURPOSES ONLY!
 
 This program was designed as the basis for my stock market API. The end goal is to create a web searchable format program that will pull data to create graphs and return calculations based on realtime data. 
